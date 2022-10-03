@@ -1,0 +1,19 @@
+h1{
+    background-color: aquamarine;
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 64px;
+}
+
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'Ink Free', Times, serif;
+    font-style: italic;
+    font-size: 18px;
+}
+
